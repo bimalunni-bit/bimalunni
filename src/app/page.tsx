@@ -1,10 +1,8 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <main className="min-h-screen bg-white text-neutral-900">
       <section className="mx-auto max-w-3xl px-4 py-16 space-y-8">
-        <h1 className="text-4xl sm:text-5xl font-bold tracking-tight">Bimalunni</h1>
+        <h1 className="text-4xl sm:text-5xl font-bold tracking-tight">Bimal Unni</h1>
         <p className="text-lg text-neutral-600">Welcome to my site. Work in progress 🚧</p>
 
         <div className="flex gap-3 flex-wrap">
