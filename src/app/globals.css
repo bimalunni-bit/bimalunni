@@ -24,3 +24,6 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+/* Optional: ensure body is white */
+html, body { background-color: #fff; }
+
